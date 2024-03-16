@@ -18,12 +18,12 @@ async def start(client, message):
     await db.add_user(client, message)
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton(
-            '❤️‍🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ❤️‍🔥', url='https://t.me/pcott'),
+            '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/Mayhem_Bots'),
         InlineKeyboardButton(
-            '🔰 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🔰', url='https://t.me/pcmoviegroup')
+            '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Mayhem_Support')
     ], [
-        InlineKeyboardButton('💡 𝗔𝗯𝗼𝘂𝘁 💡', callback_data='about'),
-        InlineKeyboardButton('📱 𝗛𝗲𝗹𝗽 📱', callback_data='help')
+        InlineKeyboardButton('💡 Aʙᴏᴜᴛ 💡', callback_data='about'),
+        InlineKeyboardButton('📱 Hᴇʟᴘ 📱', callback_data='help')
     ]])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)
@@ -65,12 +65,12 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton(
-                    '❤️‍🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ❤️‍🔥', url='https://t.me/pcott'),
+                    '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/Mayhem_Bots'),
                 InlineKeyboardButton(
-                    '🔰 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🔰', url='https://t.me/pcmoviegroup')
+                    '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Mayhem_Support')
             ], [
-                InlineKeyboardButton('💡 𝗔𝗯𝗼𝘂𝘁 💡', callback_data='about'),
-                InlineKeyboardButton('📱 𝗛𝗲𝗹𝗽 📱', callback_data='help')
+                InlineKeyboardButton('💡 Aʙᴏᴜᴛ 💡', callback_data='about'),
+                InlineKeyboardButton('📱 Hᴇʟᴘ 📱', callback_data='help')
             ]])
         )
     elif data == "help":
