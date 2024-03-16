@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/PCADMINOFFICIALBOT> 𝐏𝐂 </a>
+├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/TeamMayhem> Mayhem™ </a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -72,7 +72,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/PCADMINOFFICIALBOT>𝐏𝐂 </a>
+<b>⦿ Developer:</b> <a href=https://t.me/TeamMayhem>Mayhem™ </a>
 """
 
     SEND_METADATA = """
@@ -80,9 +80,9 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @PCADMINOFFICIALBOT" -metadata author : @PCADMINOFFICIALBOT" -metadata:s:s title="Subtitled By :- @pcott" -metadata:s:a title="By :- @pcott" -metadata:s:v title="By:- @pcott" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Downloaded From Anime Mayhem [t.me/Anime_Mayhem]" -metadata author="@Anime_Mayhem" -metadata:s:s title="Subtitled By :- @Anime_Mayhem" -metadata:s:a title="By :- @Anime_Mayhem" -metadata:s:v title="By:- @Anime_Mayhem" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @PCADMINOFFICIALBOT
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Mayhem_Contact_Bot
 """
 
     PROGRESS_BAR = """<b>\n
