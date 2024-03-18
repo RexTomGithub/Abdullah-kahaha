@@ -47,8 +47,8 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/TeamMayhem> Mayhem™ </a>
+├🤖 ᴍy ɴᴀᴍᴇ : Nior
+├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/Sensei_Rimuru> Nior </a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -72,7 +72,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/TeamMayhem>Mayhem™ </a>
+<b>⦿ Developer:</b> <a href=https://t.me/Sensei_Rimuru>Nior </a>
 """
 
     SEND_METADATA = """
@@ -80,9 +80,9 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Downloaded From Anime Mayhem [t.me/Anime_Mayhem]" -metadata author="@Anime_Mayhem" -metadata:s:s title="Subtitled By :- @Anime_Mayhem" -metadata:s:a title="By :- @Anime_Mayhem" -metadata:s:v title="By:- @Anime_Mayhem" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Encoded by Anime Sensei " -metadata author="Anime Sensei" -metadata:s:s title="Anime Sensei " -metadata:s:a title="Anime Sensei" -metadata:s:v title="Anime Sensei" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Mayhem_Contact_Bot
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Kazuki_AS
 """
 
     PROGRESS_BAR = """<b>\n
