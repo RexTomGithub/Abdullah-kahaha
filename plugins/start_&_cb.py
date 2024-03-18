@@ -18,9 +18,11 @@ async def start(client, message):
     await db.add_user(client, message)
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton(
-            '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/Mayhem_Bots'),
+            '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/ANI_BOTS_UPDATES'
+
+'),
         InlineKeyboardButton(
-            '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Mayhem_Support')
+            '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Kazuki_AS')
     ], [
         InlineKeyboardButton('💡 Aʙᴏᴜᴛ 💡', callback_data='about'),
         InlineKeyboardButton('📱 Hᴇʟᴘ 📱', callback_data='help')
@@ -65,9 +67,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton(
-                    '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/Mayhem_Bots'),
+                    '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/ANI_BOTS_UPDATES'),
                 InlineKeyboardButton(
-                    '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Mayhem_Support')
+                    '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Kazuki_AS')
             ], [
                 InlineKeyboardButton('💡 Aʙᴏᴜᴛ 💡', callback_data='about'),
                 InlineKeyboardButton('📱 Hᴇʟᴘ 📱', callback_data='help')
