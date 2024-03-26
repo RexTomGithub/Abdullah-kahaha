@@ -20,7 +20,7 @@ async def start(client, message):
         InlineKeyboardButton(
             '❤️‍🔥 Uᴘᴅᴀᴛᴇs ❤️‍🔥', url='https://t.me/ANI_BOTS_UPDATES'
 
-'),
+
         InlineKeyboardButton(
             '🔰 Sᴜᴘᴘᴏʀᴛ 🔰', url='https://t.me/Kazuki_AS')
     ], [
